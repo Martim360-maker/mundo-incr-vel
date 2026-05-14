@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+  <meta charset="UTF-8">
+  <title>Soluções - Mundo Incrível</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header><h1>Soluções</h1></header>
+
+<nav>
+  <a href="index.html">Início</a>
+  <a href="poluicao.html">Poluição</a>
+  <a href="causas.html">Causas</a>
+  <a href="dicas.html">Dicas</a>
+  <a href="galeria.html">Galeria</a>
+</nav>
+
+<section class="content">
+  <h2>Como Podemos Ajudar</h2>
+
+  <img src="https://images.unsplash.com/photo-1523978591478-c753949ff840?auto=format&fit=crop&w=1200&q=60" class="banner">
+
+  <ul>
+    <li>Reduzir plástico</li>
+    <li>Reciclar corretamente</li>
+    <li>Usar transportes públicos</li>
+    <li>Plantar árvores</li>
+    <li>Economizar água e energia</li>
+  </ul>
+</section>
+
+<footer>© 2026 Mundo Incrível</footer>
+
+</body>
+</html>

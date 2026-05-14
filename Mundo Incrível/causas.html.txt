@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+  <meta charset="UTF-8">
+  <title>Causas da Poluição - Mundo Incrível</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header><h1>Causas da Poluição</h1></header>
+
+<nav>
+  <a href="index.html">Início</a>
+  <a href="poluicao.html">Poluição</a>
+  <a href="solucoes.html">Soluções</a>
+  <a href="dicas.html">Dicas</a>
+  <a href="galeria.html">Galeria</a>
+</nav>
+
+<section class="content">
+  <h2>Principais Causas</h2>
+
+  <img src="https://images.unsplash.com/photo-1509395176047-4a66953fd231?auto=format&fit=crop&w=1200&q=60" class="banner">
+
+  <ul>
+    <li>Indústrias e fábricas</li>
+    <li>Plásticos descartáveis</li>
+    <li>Carros e transportes</li>
+    <li>Desflorestação</li>
+    <li>Desperdício e lixo acumulado</li>
+  </ul>
+</section>
+
+<footer>© 2026 Mundo Incrível</footer>
+
+</body>
+</html>

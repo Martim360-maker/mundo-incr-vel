@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+  <meta charset="UTF-8">
+  <title>Poluição - Mundo Incrível</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header><h1>Poluição</h1></header>
+
+<nav>
+  <a href="index.html">Início</a>
+  <a href="causas.html">Causas</a>
+  <a href="solucoes.html">Soluções</a>
+  <a href="dicas.html">Dicas</a>
+  <a href="galeria.html">Galeria</a>
+</nav>
+
+<section class="content">
+  <h2>O Mundo Está a Ficar Poluído</h2>
+  <img src="https://images.unsplash.com/photo-1502303756781-9a5f9f5f5d4b?auto=format&fit=crop&w=1200&q=60" class="banner">
+
+  <p>A poluição está a aumentar em níveis alarmantes. O ar, a água e o solo estão a ser contaminados por atividades humanas.</p>
+</section>
+
+<footer>© 2026 Mundo Incrível</footer>
+
+</body>
+</html>
